@@ -21,8 +21,8 @@ Por enquanto só está disponível a versão desktop sem responsividade pra mobi
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/brunofilho1/javascript-notes-api/
-$ cd javascript-notes-api
+$ git clone https://github.com/brunofilho1/your-notes-api/
+$ cd your-notes-api
 ```
 ## 🚀 Como iniciar a aplicação
 
@@ -39,7 +39,7 @@ A API estará disponível no endereço http://localhost:3001 assim que iniciado.
 
 Lembrando que você pode mudar a porta para outra que você preferir, mas faça as configurações necessárias pra conexão do MongoDB.
 
-O front se encontra no [Client Side](https://github.com/brunofilho1/javascript-notes-client) da aplicação.
+O front se encontra no [Client Side](https://github.com/brunofilho1/your-notes-client) da aplicação.
 
 ## 📝 Licença MIT
 
