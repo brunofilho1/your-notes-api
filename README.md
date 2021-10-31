@@ -16,7 +16,7 @@ Por enquanto só está disponível a versão desktop sem responsividade pra mobi
 
 <br>
 
-## 📎 Clone a API
+## 🔗  Clone a API
 
 Clone o projeto e acesse a pasta do mesmo.
 
